@@ -1,4 +1,4 @@
-import styles from "/.Example.module.scss";
+import styles from "./Example.module.scss";
 
 const Example = (pageTitle = "Example") => {
   const container = document.createElement("div");
