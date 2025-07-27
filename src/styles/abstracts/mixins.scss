@@ -1,4 +1,4 @@
-@use "@/styles/absracts/variables" as *;
+@use "@/styles/abstracts/variables" as *;
 
 @mixin min($screen) {
   @media (min-width: $screen) {
